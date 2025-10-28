@@ -1,0 +1,1114 @@
+[
+  {
+    "name": "IMS MANUTENÇÃO",
+    "email": "orcamento@imsmanutencao.com.br",
+    "id": "ee73c536-a935-46d8-9b2e-51cd65a24abc",
+    "createdAt": "2025-10-23T21:59:43.792Z",
+    "monthlyData": [
+      {
+        "month": "2025-10",
+        "startDate": "2025-09-22",
+        "endDate": "2025-10-22",
+        "clicks": 374,
+        "conversions": 31,
+        "costPerClick": 3.94,
+        "totalSpent": 1470,
+        "impressions": 4700,
+        "conversionRate": 8.29,
+        "id": "cb94fd1e-5cda-4c2f-8e5c-331c89ae8d34",
+        "keywords": [
+          {
+            "id": "bcc7adbf-4520-4337-819f-9ac5eb005f3f",
+            "name": "manutencao pneumatica",
+            "clicks": 139,
+            "impressions": 1435,
+            "cpc": 4.19,
+            "conversions": 16,
+            "cost": 581.93
+          },
+          {
+            "id": "810c70d3-5a62-4a94-8e34-ad8330716076",
+            "name": "manutenção hidraulica industrial",
+            "clicks": 79,
+            "impressions": 558,
+            "cpc": 3.17,
+            "conversions": 5,
+            "cost": 250
+          },
+          {
+            "id": "6d1d03bb-f034-4e93-8abb-567dde4425c0",
+            "name": "montagem painel eletrico",
+            "clicks": 17,
+            "impressions": 235,
+            "cpc": 6.19,
+            "conversions": 2,
+            "cost": 105
+          },
+          {
+            "id": "b91cd3d5-b1e4-453f-9023-58f54a8aa8b5",
+            "name": "montagem quadro eletrico",
+            "clicks": 12,
+            "impressions": 305,
+            "cpc": 7.76,
+            "conversions": 1,
+            "cost": 93
+          },
+          {
+            "id": "4017573e-5c76-4323-9344-64d97d95b82b",
+            "name": "mecanica industrial",
+            "clicks": 25,
+            "impressions": 426,
+            "cpc": 2.81,
+            "conversions": 4,
+            "cost": 70.34
+          }
+        ]
+      },
+      {
+        "month": "2025-09",
+        "startDate": "2025-08-22",
+        "endDate": "2025-09-22",
+        "clicks": 428,
+        "conversions": 67,
+        "costPerClick": 4.16,
+        "totalSpent": 1780,
+        "impressions": 8880,
+        "conversionRate": 15.65,
+        "id": "fa29d49e-d61b-4fe4-9c78-0620fb50c805",
+        "keywords": [
+          {
+            "id": "b3cadba4-7d40-4a3b-ab9a-725a8defee87",
+            "name": "manutencao pneumatica",
+            "clicks": 184,
+            "impressions": 2.976,
+            "cpc": 4.01,
+            "conversions": 32,
+            "cost": 738
+          },
+          {
+            "id": "2a8e87d7-9868-42ea-8106-f0534448e5ab",
+            "name": "Instalação de Painel Elétrico",
+            "clicks": 45,
+            "impressions": 1258,
+            "cpc": 4.21,
+            "conversions": 5,
+            "cost": 189
+          },
+          {
+            "id": "e09863ef-8b36-4c3c-99e9-95f749f3d1bf",
+            "name": "montagem quadro eletrico",
+            "clicks": 26,
+            "impressions": 699,
+            "cpc": 5.39,
+            "conversions": 7,
+            "cost": 140
+          },
+          {
+            "id": "8e7d2ee8-bdb0-484c-bf94-da8c63fff72b",
+            "name": "\"eletricista industrial\"",
+            "clicks": 27,
+            "impressions": 414,
+            "cpc": 4.93,
+            "conversions": 3,
+            "cost": 133
+          },
+          {
+            "id": "0e9d628c-98d6-4bb7-a8d9-97c51599419b",
+            "name": "painel elétrico industrial",
+            "clicks": 19,
+            "impressions": 407,
+            "cpc": 6.24,
+            "conversions": 5,
+            "cost": 118.54
+          },
+          {
+            "id": "89deb302-bf60-497c-989a-a3e6d11ca571",
+            "name": "\"mecanica industrial\"",
+            "clicks": 34,
+            "impressions": 940,
+            "cpc": 3.23,
+            "conversions": 3,
+            "cost": 109.75
+          },
+          {
+            "id": "49c29662-20d8-454c-8ccf-95040d70c6e0",
+            "name": "\"mecanico industrial\"",
+            "clicks": 29,
+            "impressions": 636,
+            "cpc": 3.77,
+            "conversions": 3,
+            "cost": 109
+          }
+        ]
+      }
+    ],
+    "organicData": [
+      {
+        "month": "2025-10",
+        "startDate": "2025-09-22",
+        "endDate": "2025-10-22",
+        "impressions": 1460,
+        "clicks": 44,
+        "averagePosition": 13,
+        "id": "476c4dfa-eeaf-4de6-be79-abd7ac76bec0",
+        "keywords": [
+          {
+            "id": "144f6579-a1cb-4744-9833-1b6ae2d6c774",
+            "name": "manutenção pneumatica",
+            "clicks": 2,
+            "impressions": 47
+          },
+          {
+            "id": "d1ea8b15-ef64-49cd-9284-1816aeaaf2f8",
+            "name": "integridade estrutural",
+            "clicks": 1,
+            "impressions": 92
+          },
+          {
+            "id": "1a1b0774-914b-49ef-8a03-4ca171d24c66",
+            "name": "manutenção pneumática",
+            "clicks": 1,
+            "impressions": 31
+          },
+          {
+            "id": "a0fcb069-0f3d-4e46-a50f-f411931cf780",
+            "name": "montagem e manutenção industrial",
+            "clicks": 1,
+            "impressions": 3
+          },
+          {
+            "id": "f17400c8-a28f-4b5d-8701-19b4b890ae9e",
+            "name": "manutenção elétrica industrial",
+            "clicks": 0,
+            "impressions": 58
+          },
+          {
+            "id": "24477c21-483b-4b3f-9416-70eb71b1de97",
+            "name": "ims instalações elétricas",
+            "clicks": 0,
+            "impressions": 31
+          },
+          {
+            "id": "0b214d9b-42b2-4656-a563-dccc9fd6de5c",
+            "name": "manutencao de exaustor",
+            "clicks": 0,
+            "impressions": 27
+          },
+          {
+            "id": "c3cc8d63-7b9b-4ab9-a2e9-42638fdc4bed",
+            "name": "manutenção de exaustores",
+            "clicks": 0,
+            "impressions": 12
+          },
+          {
+            "id": "7fd5b0eb-899e-48ee-b237-257acb51d82b",
+            "name": "manutenção preventiva industrial",
+            "clicks": 0,
+            "impressions": 9
+          },
+          {
+            "id": "a34f7311-2c5f-492a-bc89-e76cb52883f2",
+            "name": "mecânico de manutenção de equipamentos industriais",
+            "clicks": 0,
+            "impressions": 8
+          },
+          {
+            "id": "9feb4ac1-09d0-4b69-a936-3b7ee7eb6d90",
+            "name": "empresa ims",
+            "clicks": 0,
+            "impressions": 7
+          },
+          {
+            "id": "e5042c25-b608-4dfc-9f9d-75a36735f422",
+            "name": "local guide program",
+            "clicks": 0,
+            "impressions": 5
+          },
+          {
+            "id": "8c3308d1-bf0e-4292-b4b8-ad2e8d7a556f",
+            "name": "manutenção de equipamentos industriais",
+            "clicks": 0,
+            "impressions": 5
+          },
+          {
+            "id": "dbf00d1d-a7f4-4c54-a46f-a6c6446b86e0",
+            "name": "cuidados+na+manutenção+de+balanças+empinduradas+",
+            "clicks": 0,
+            "impressions": 5
+          },
+          {
+            "id": "6ec6941c-c892-4662-91ce-56c2977d3d37",
+            "name": "manutenção de exaustores industriais",
+            "clicks": 0,
+            "impressions": 4
+          },
+          {
+            "id": "f7cf5612-a916-4ef7-93e8-d096c6fd574f",
+            "name": "manutenção de balanças industriais",
+            "clicks": 0,
+            "impressions": 3
+          },
+          {
+            "id": "ca6e776a-275b-459f-ae6b-784b6ee28429",
+            "name": "manutenção exaustor industrial",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "0de0c211-d234-4041-8e21-915bb9e4a130",
+            "name": "ims industrial",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "f40cbfeb-ed80-4bce-8747-c02a45b728e1",
+            "name": "serviços de montagem industrial",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "acec91f3-8e72-43a3-930d-cb1d52d95fe4",
+            "name": "manutenção de exaustor industrial",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "a846cd70-3c55-4985-99f7-7e34783a324d",
+            "name": "mecânico de manutenção de máquinas industriais",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "b57dec9d-3cbd-4370-839d-1e528c87d57c",
+            "name": "manutenção em cilindros pneumáticos e hidráulicos",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "9367b272-a4c7-4a97-b1b3-72dedc805721",
+            "name": "exaustor hidráulico industrial",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "6aa3ea4a-09da-42a1-98f3-a13ed1a97758",
+            "name": "manutenção de equipamentos hidráulicos",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "3736da48-c6f8-46bb-8b88-ef05d3f1b0ae",
+            "name": "curso de mecanica industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "78a43ab5-2571-4604-9285-a37f47606780",
+            "name": "curso mecanica industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "48b2294f-1367-48df-bd3d-1accc165c464",
+            "name": "manutenção ihm e clp goias",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "ad9f2e85-04b3-4ee7-914a-72c7cf24394d",
+            "name": "manutenção mecânica industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "5f030bf1-f43b-41d1-b38c-05a2edc1520a",
+            "name": "conserto de prensa hidráulica",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "0aac9ca4-0011-4ef0-9352-2d0119d31039",
+            "name": "ems",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "5d27896f-c687-4dd7-ae34-868faa023012",
+            "name": "integrity",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "01d4f60e-b354-4dbd-a7bc-279ddd202dcb",
+            "name": "smi",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "1c0970be-4776-4c36-bb8d-284ec422407f",
+            "name": "empresas de montagem e manutenção industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "2139fb8e-7acd-43c3-a296-c01d56ddcd8a",
+            "name": "em montagem",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "967796d0-cd65-477d-966b-78cbb55103c7",
+            "name": "manutenção elétrica industrial em sp",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "5819a80e-6402-4699-92dd-7fb3cd63610c",
+            "name": "manutenção mecânica industrial em sp",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "3a65f281-1465-4236-b1ee-a02e00f7ac94",
+            "name": "mecanica de manutenção industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "aa8c5f89-1b81-4374-87b5-0fd04b047001",
+            "name": "24/7 ims",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "a9d3de88-a8d7-49d3-a577-2e0eb12d5b36",
+            "name": "manutenção exaustor",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "18568027-93c0-4d8e-adf0-ce921a0263a4",
+            "name": "manutenção de exaustor",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "f73b2fd9-de34-439c-9d6b-e97ebb87fa8a",
+            "name": "serviço de manutenção de máquinas",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "920dd5b5-e341-4a68-95ab-b410e7e65ade",
+            "name": "manutenção em equipamentos industriais",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "58993f57-809f-4f1e-ac65-dcd9ace85e5e",
+            "name": "manutenção eletrica industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "49657559-83c6-4c30-9a7a-19f7e1511ef1",
+            "name": "montagem de máquinas industriais",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "0ea50a9e-e314-470b-ae02-ca9999d0dd3f",
+            "name": "montagem de painel isotérmico em são paulo",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "ec3b9972-47df-43a0-b6cd-b807119edb78",
+            "name": "manutenção em cilindros pneumáticos",
+            "clicks": 0,
+            "impressions": 1
+          }
+        ]
+      },
+      {
+        "month": "2025-09",
+        "startDate": "2025-08-22",
+        "endDate": "2025-09-22",
+        "impressions": 2770,
+        "clicks": 25,
+        "averagePosition": 28.6,
+        "id": "13398e6d-6f79-4e66-8e78-2298d408eee2",
+        "keywords": [
+          {
+            "id": "be1378ae-6f5b-46fb-a233-e4b0eeeaad34",
+            "name": "ims instalações elétricas",
+            "clicks": 1,
+            "impressions": 243
+          },
+          {
+            "id": "f7e267ab-9a11-4c88-9a9b-21044b22b944",
+            "name": "manutenção elétrica industrial",
+            "clicks": 0,
+            "impressions": 192
+          },
+          {
+            "id": "3bee0d31-d006-4be3-a000-28963c95fbfa",
+            "name": "integridade estrutural",
+            "clicks": 0,
+            "impressions": 109
+          },
+          {
+            "id": "0b7cf5d5-b4e9-4e7d-8c26-d19eab320dad",
+            "name": "manutenção pneumática",
+            "clicks": 0,
+            "impressions": 39
+          },
+          {
+            "id": "eb5dd196-43d8-45ac-b0a6-bde02a1dda20",
+            "name": "serviço de manutenção de máquinas",
+            "clicks": 0,
+            "impressions": 39
+          },
+          {
+            "id": "59218bf8-7b80-4da3-a5bd-e834d3238b42",
+            "name": "manutenção pneumatica",
+            "clicks": 0,
+            "impressions": 37
+          },
+          {
+            "id": "7e8748ed-7416-491e-965b-96e309c9da80",
+            "name": "manutenção de máquinas pneumáticas",
+            "clicks": 0,
+            "impressions": 30
+          },
+          {
+            "id": "9a640586-dac5-4c40-85e3-8375166e2507",
+            "name": "manutenção de equipamentos industriais",
+            "clicks": 0,
+            "impressions": 28
+          },
+          {
+            "id": "f5c584cd-356c-4c66-911e-aed41dc2a4c4",
+            "name": "manutenção industrial especializada",
+            "clicks": 0,
+            "impressions": 23
+          },
+          {
+            "id": "003aacd6-49aa-4cdb-a601-aff8b96a82b1",
+            "name": "eletricista alto da lapa",
+            "clicks": 0,
+            "impressions": 21
+          },
+          {
+            "id": "fad0bb74-9b3e-4a58-80eb-a653eb14082e",
+            "name": "manutenção de equipamentos hidráulicos",
+            "clicks": 0,
+            "impressions": 19
+          },
+          {
+            "id": "9c597cfe-3248-4596-a653-5f6c5eb72e47",
+            "name": "manutenção de exaustores",
+            "clicks": 0,
+            "impressions": 17
+          },
+          {
+            "id": "2d69a619-5d3a-45b9-bd0c-e65f38dc2ff7",
+            "name": "manutenção de maquinas e equipamentos industriais",
+            "clicks": 0,
+            "impressions": 15
+          },
+          {
+            "id": "b312023a-bc12-467b-8459-90d1567c5503",
+            "name": "manutenção hidraulica industrial manutenção planejada",
+            "clicks": 0,
+            "impressions": 11
+          },
+          {
+            "id": "eed8242a-0012-43fb-afe2-0c98c97b6d8b",
+            "name": "manutenção de exaustores industriais",
+            "clicks": 0,
+            "impressions": 10
+          },
+          {
+            "id": "cf12ed00-c656-4558-b156-14c5eeaab490",
+            "name": "consultoria em manutenção industrial",
+            "clicks": 0,
+            "impressions": 9
+          },
+          {
+            "id": "50c89acb-fd88-4e7a-b641-90c4fd1045f8",
+            "name": "manutenção em válvula pneumática industrial",
+            "clicks": 0,
+            "impressions": 9
+          },
+          {
+            "id": "acf9d80b-6196-4c41-9ea8-bffa5d015e81",
+            "name": "mecanicaindustrial.com.br",
+            "clicks": 0,
+            "impressions": 8
+          },
+          {
+            "id": "f4aaf5d9-13a2-49aa-a21c-daee9db43cfd",
+            "name": "empresa ims",
+            "clicks": 0,
+            "impressions": 7
+          },
+          {
+            "id": "11b7d5c4-b32f-42ff-9df0-f47d4dbc621c",
+            "name": "manutenção de exaustor industrial",
+            "clicks": 0,
+            "impressions": 7
+          },
+          {
+            "id": "13d1b80f-9daa-4b53-ba9a-f98cac2c8cdb",
+            "name": "manutenção elétrica industrial em sp",
+            "clicks": 0,
+            "impressions": 7
+          },
+          {
+            "id": "f55abcb4-6385-44e5-8f91-986909256a8d",
+            "name": "manutenção mecânica industrial",
+            "clicks": 0,
+            "impressions": 7
+          },
+          {
+            "id": "cad8d4cb-1247-41e4-8a32-57fd79009e65",
+            "name": "eletricista parque são domingos",
+            "clicks": 0,
+            "impressions": 7
+          },
+          {
+            "id": "a1671edc-4f02-4f2d-8685-acc8a2462bad",
+            "name": "manutenção exaustor",
+            "clicks": 0,
+            "impressions": 6
+          },
+          {
+            "id": "fb0b9e79-49ec-4c42-bd0a-c8010aa97fc2",
+            "name": "exaustor hidráulico industrial",
+            "clicks": 0,
+            "impressions": 6
+          },
+          {
+            "id": "238ceef6-f322-43fa-b6ff-1b23defeea4c",
+            "name": "mecânico de manutenção hidráulica e pneumática",
+            "clicks": 0,
+            "impressions": 5
+          },
+          {
+            "id": "bc388281-8ce3-4275-8270-8bd7bf576d14",
+            "name": "manutenção exaustor industrial",
+            "clicks": 0,
+            "impressions": 4
+          },
+          {
+            "id": "764a67b5-8d61-4f2b-a63b-7ea2d0931890",
+            "name": "manutenção de exaustor",
+            "clicks": 0,
+            "impressions": 4
+          },
+          {
+            "id": "b181d4de-0970-4e62-b769-49384e926c38",
+            "name": "manutenção em exaustores",
+            "clicks": 0,
+            "impressions": 4
+          },
+          {
+            "id": "0d671d51-57b1-441e-96c8-0f4895d627cb",
+            "name": "exaustor manutenção",
+            "clicks": 0,
+            "impressions": 4
+          },
+          {
+            "id": "64c88543-a216-42c6-96b8-57b637d70a1f",
+            "name": "manutenção mecânica industrial em sp",
+            "clicks": 0,
+            "impressions": 4
+          },
+          {
+            "id": "a65fec66-f7de-4885-a5ee-e29d126555c7",
+            "name": "normas para montagem de painéis elétricos",
+            "clicks": 0,
+            "impressions": 4
+          },
+          {
+            "id": "55677a5c-913d-47bc-8334-dcccdcab2016",
+            "name": "planejamento de montagem industrial",
+            "clicks": 0,
+            "impressions": 4
+          },
+          {
+            "id": "a7e7fbdb-cb09-4518-a3b6-50b0ccde93a3",
+            "name": "serviços de diagnóstico industrial",
+            "clicks": 0,
+            "impressions": 4
+          },
+          {
+            "id": "87f3429e-123e-4068-b909-8b0b44408e54",
+            "name": "ims industrial",
+            "clicks": 0,
+            "impressions": 3
+          },
+          {
+            "id": "fb18a993-e15e-4e2e-a9ee-138626cf5db4",
+            "name": "mecânico de manutenção de equipamentos industriais",
+            "clicks": 0,
+            "impressions": 3
+          },
+          {
+            "id": "75ebdc63-f353-4dff-9887-76b384e23ac2",
+            "name": "manutenção eletrica industrial",
+            "clicks": 0,
+            "impressions": 3
+          },
+          {
+            "id": "6baea01f-b38e-4b80-baf7-1ac53318477b",
+            "name": "manutenção em equipamentos industriais",
+            "clicks": 0,
+            "impressions": 3
+          },
+          {
+            "id": "dcfd1a9c-05f3-4200-a249-43124fa1c904",
+            "name": "instalação de linhas de montagem",
+            "clicks": 0,
+            "impressions": 3
+          },
+          {
+            "id": "b986687f-f862-401c-b3c5-ca90b99155f0",
+            "name": "manutenção em cilindros pneumáticos",
+            "clicks": 0,
+            "impressions": 3
+          },
+          {
+            "id": "efe65ea2-4c3f-4f99-b460-46bbc1ac23a8",
+            "name": "instalação e manutenção de sistemas hidráulicos e pneumáticos",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "c131fcec-b661-431a-8ca0-46a180639fb0",
+            "name": "eletricista de maquinas industriais",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "9b37edff-3b03-4d0a-a9a1-8e83c5f0aeba",
+            "name": "manutenção pneumática industrial",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "216822bc-f184-4713-9d86-7b02a499c4c5",
+            "name": "manutenção industrial eletrica",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "9f30f44d-c900-4b47-a8b6-d5c73cf35990",
+            "name": "manutenção de máquinas",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "e104794b-d0d6-4600-a7d9-d11d235454fc",
+            "name": "ims energia",
+            "clicks": 0,
+            "impressions": 2
+          },
+          {
+            "id": "ba704241-997c-4caf-bb77-9d0b8d941253",
+            "name": "local guide program",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "adc59046-1930-4f1f-b112-48d2cc7e8b49",
+            "name": "serviço de manutenção",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "e8979773-77c9-4436-a23b-633145a84e8b",
+            "name": "serviços de manutenção",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "190aabfe-7e3e-4099-89be-b567e077f937",
+            "name": "ims services",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "dfb68807-1b22-4f72-8b3c-f7e6d1251841",
+            "name": "mecanico de manutenção industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "e91f165a-e470-431a-8ce0-3b33c15eaabd",
+            "name": "montagem e manutenção industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "d6483e68-12e6-446f-8c4f-2e26aaffdb03",
+            "name": "mecânico de manutenção industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "433c8736-18c0-42ed-8cc4-6b5c8c9f425d",
+            "name": "reparação de exaustores",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "d01666e1-a0db-4881-a8c7-f5b3fa58b8df",
+            "name": "empresas manutenção industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "fa22654c-2ea4-4e90-805e-7e3472a33084",
+            "name": "mecânico de manutenção de máquinas industriais",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "146638ee-3755-44a4-bdb5-e5282371d3a7",
+            "name": "instalação de equipamentos industriais",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "d4b543fc-de73-4e4e-8f42-7569d0d25d85",
+            "name": "manutenção de balanças industriais",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "d97fff1a-a898-4e9b-a74b-c41ec058ad8a",
+            "name": "conserto de exaustor industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "34c5de22-faf9-42b0-8e86-d4a2731a649e",
+            "name": "equipe manutenção industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "6aa463ca-a58f-49a3-b770-2c8462773d7f",
+            "name": "ims medidores",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "bce02f29-eaf2-43e8-a9c8-a8b12f0cc724",
+            "name": "manutenção de exaustor de cozinha industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "429277b6-079f-4a13-8ebd-9476da44727c",
+            "name": "manutenção mecanica industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "5d5a5d45-2ea7-44fc-b521-6a425ebea62e",
+            "name": "manutencao logo",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "5fdc48e3-de49-4dfb-b068-c2cdb864a1a3",
+            "name": "ims manufacturing",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "96d5cb9e-4b6c-4311-a758-65437f77c3a2",
+            "name": "o que faz um eletricista de manutenção industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "acc5fc03-59ac-4031-a5e0-07f8ef907a4e",
+            "name": "manutenção de exaustor de cozinha",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "1cdd31aa-d60f-413a-8dc6-7787f527e913",
+            "name": "sistema de pesagem industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "6f536d5f-3c2d-4a7d-8ba1-6ff2d2f37db2",
+            "name": "manutenção de máquinas e equipamentos industriais",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "430c847e-c2eb-4446-aca2-815d788f2cb2",
+            "name": "montagem de painel eletrico industrial",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "606d26cb-18cd-4889-ada5-c169777b7aed",
+            "name": "empresas de exaustores industriais",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "a92c5ca0-b3cc-4466-815b-18e1beafdd9b",
+            "name": "manutenção equipamentos industriais",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "3d818d31-e60b-4e02-9cfa-c338c8d64b76",
+            "name": "manutenções elétricas são paulo",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "a1c32320-29dc-4e1c-9067-8c46fc23d7bf",
+            "name": "manutenção mecanica",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "285406f0-afc3-4abb-9d1c-00aab683cc1c",
+            "name": "segurança estrutural",
+            "clicks": 0,
+            "impressions": 1
+          },
+          {
+            "id": "02887840-1648-4c38-b07c-3ce5383baa53",
+            "name": "balanceamento de exaustores industriais",
+            "clicks": 0,
+            "impressions": 1
+          }
+        ]
+      },
+      {
+        "month": "2025-08",
+        "startDate": "2025-07-22",
+        "endDate": "2025-08-22",
+        "impressions": 2560,
+        "clicks": 29,
+        "averagePosition": 35.3,
+        "id": "f051e997-b159-4e91-96c3-e2f99516dc64"
+      }
+    ],
+    "savedReports": [
+      {
+        "month": "2025-10",
+        "htmlContent": "```html\n<section>\n    <h2>Relatório de Desempenho - IMS MANUTENÇÃO (Outubro de 2025)</h2>\n    <p>Este relatório apresenta uma análise detalhada do desempenho do tráfego pago e orgânico da IMS MANUTENÇÃO no mês de outubro de 2025. Observa-se uma queda nas conversões do tráfego pago devido a problemas técnicos, enquanto o tráfego orgânico mostrou melhorias significativas nas impressões e cliques, fruto de estratégias de SEO implementadas.</p>\n</section>\n\n<section>\n    <h2>Análise de Tráfego Pago</h2>\n    <h3>Comparação entre Outubro e Setembro de 2025</h3>\n    <table>\n        <tr>\n            <th>Métricas</th>\n            <th>Outubro 2025</th>\n            <th>Setembro 2025</th>\n        </tr>\n        <tr>\n            <td>Cliques</td>\n            <td>374</td>\n            <td>428</td>\n        </tr>\n        <tr>\n            <td>Impressões</td>\n            <td>4.700</td>\n            <td>8.880</td>\n        </tr>\n        <tr>\n            <td>Conversões</td>\n            <td>31</td>\n            <td>67</td>\n        </tr>\n        <tr>\n            <td>CPC (R$)</td>\n            <td>R$ 3,94</td>\n            <td>R$ 4,16</td>\n        </tr>\n        <tr>\n            <td>Valor Gasto (R$)</td>\n            <td>R$ 1.470,00</td>\n            <td>R$ 1.780,00</td>\n        </tr>\n        <tr>\n            <td>Taxa de Conversão (%)</td>\n            <td>8,29%</td>\n            <td>15,65%</td>\n        </tr>\n    </table>\n\n    <h3>Tendências e Análise de Eficiência</h3>\n    <p>Observa-se uma <strong>queda nos cliques</strong> (-12,6%), <strong>impressões</strong> (-47,0%) e <strong>conversões</strong> (-53,7%) em comparação a setembro. O CPC foi reduzido em <strong>R$ 0,22</strong>, indicando uma leve melhoria na eficiência de custo, mas a <strong>taxa de conversão</strong> caiu significativamente.</p>\n    <div class=\"warning-box\">\n        <p><strong>Atenção:</strong> A queda nas conversões está relacionada a um problema técnico na contagem do botão do WhatsApp, o que impactou diretamente os resultados.</p>\n    </div>\n</section>\n\n<section>\n    <h2>Análise de Tráfego Orgânico</h2>\n    <h3>Comparação de Dados de Tráfego Orgânico</h3>\n    <table>\n        <tr>\n            <th>Métricas</th>\n            <th>Outubro 2025</th>\n            <th>Setembro 2025</th>\n            <th>Agosto 2025</th>\n        </tr>\n        <tr>\n            <td>Impressões</td>\n            <td>1.460</td>\n            <td>2.770</td>\n            <td>2.560</td>\n        </tr>\n        <tr>\n            <td>Cliques</td>\n            <td>44</td>\n            <td>25</td>\n            <td>29</td>\n        </tr>\n        <tr>\n            <td>Posição Média</td>\n            <td>13.0</td>\n            <td>28.6</td>\n            <td>35.3</td>\n        </tr>\n    </table>\n\n    <h3>Tendências de Crescimento Orgânico</h3>\n    <p>O tráfego orgânico mostrou uma <strong>evolução positiva</strong> em termos de cliques (+76%) e uma <strong>melhoria significativa na posição média</strong>, passando de 28.6 para 13.0. As mudanças implementadas nas palavras-chave específicas, como \"manutenção elétrica em diversas regiões de SP\" e \"mecânico industrial em diversas regiões de SP\", contribuíram para esse crescimento.</p>\n</section>\n\n<section>\n    <h2>Insights e Recomendações</h2>\n    <ul>\n        <li>⚙️ **Análise do Problema de Conversão:** Corrigir a contagem de conversões do WhatsApp para retomar o volume de leads qualificados.</li>\n        <li>📈 **Aprimorar Campanhas de Google Ads:** Reavaliar as palavras-chave e anúncios para aumentar a taxa de cliques e conversões.</li>\n        <li>💡 **Aproveitar o Crescimento Orgânico:** Continuar otimizando o conteúdo do site com palavras-chave específicas que mostraram resultados positivos.</li>\n        <li>✅ **Monitorar Desempenho Mensal:** Realizar análises mensais para ajustar estratégias rapidamente com base nos dados mais recentes.</li>\n        <li>🎯 **Investir em Retargeting:** Implementar campanhas de retargeting para alcançar visitantes que não converteram na primeira interação.</li>\n    </ul>\n</section>\n\n<section>\n    <h2>Conclusão</h2>\n    <p>O mês de outubro de 2025 apresentou desafios significativos no tráfego pago, mas também trouxe oportunidades no tráfego orgânico. A correção das falhas de conversão e a continuidade das práticas de SEO devem ser prioridades. Recomendamos a implementação das ações sugeridas para otimizar os resultados em meses futuros.</p>\n</section>\n```",
+        "hasPaidTraffic": true,
+        "hasOrganicTraffic": true,
+        "id": "67dbde6a-40fb-4e0d-b91c-41b77fb5db0c",
+        "generatedAt": "2025-10-24T02:01:52.907Z"
+      },
+      {
+        "month": "2025-10",
+        "htmlContent": "```html\n<div>\n    <h2>Relatório de Desempenho Digital - IMS MANUTENÇÃO</h2>\n    <p>Este relatório apresenta uma análise detalhada do desempenho das campanhas de Google Ads e do tráfego orgânico da IMS MANUTENÇÃO durante o mês de outubro de 2025. Os dados foram comparados com o mês anterior, setembro de 2025, para identificar tendências, oportunidades e áreas de melhoria.</p>\n\n    <h2>Análise de Tráfego Pago</h2>\n    <h3>Comparação de Desempenho</h3>\n    <table>\n        <tr>\n            <th>Métrica</th>\n            <th>Outubro de 2025</th>\n            <th>Setembro de 2025</th>\n        </tr>\n        <tr>\n            <td>Cliques</td>\n            <td>374</td>\n            <td>428</td>\n        </tr>\n        <tr>\n            <td>Impressões</td>\n            <td>4.700</td>\n            <td>8.880</td>\n        </tr>\n        <tr>\n            <td>Conversões</td>\n            <td>31</td>\n            <td>67</td>\n        </tr>\n        <tr>\n            <td>CPC (R$)</td>\n            <td>3,94</td>\n            <td>4,16</td>\n        </tr>\n        <tr>\n            <td>Valor Gasto (R$)</td>\n            <td>1.470,00</td>\n            <td>1.780,00</td>\n        </tr>\n        <tr>\n            <td>Taxa de Conversão (%)</td>\n            <td>8,29</td>\n            <td>15,65</td>\n        </tr>\n    </table>\n\n    <h3>Tendências e Eficiência do Investimento</h3>\n    <p>A análise dos dados mostra uma <strong>queda significativa</strong> em cliques e conversões em outubro de 2025 em comparação com setembro de 2025. O número de cliques caiu de <strong>428</strong> para <strong>374</strong> e as conversões diminuíram de <strong>67</strong> para <strong>31</strong>. Essa redução pode ser atribuída a um <em>problema de contagem de conversão</em> no botão do WhatsApp, que já foi resolvido.</p>\n    <div class=\"warning-box\">\n        <p>⚠️ A taxa de conversão caiu de <strong>15,65%</strong> para <strong>8,29%</strong>, o que indica a necessidade de reavaliar as estratégias de conversão.</p>\n    </div>\n\n    <h3>Pontos Positivos e Áreas de Melhoria</h3>\n    <ul>\n        <li>O <strong>CPC</strong> apresentou uma melhora, reduzindo de <strong>R$ 4,16</strong> para <strong>R$ 3,94</strong>.</li>\n        <li>É crucial monitorar a implementação das soluções para conversões e otimizar as páginas de destino para maximizar a taxa de conversão.</li>\n    </ul>\n\n    <h2>Análise de Tráfego Orgânico</h2>\n    <h3>Comparação de Desempenho</h3>\n    <table>\n        <tr>\n            <th>Métrica</th>\n            <th>Outubro de 2025</th>\n            <th>Setembro de 2025</th>\n        </tr>\n        <tr>\n            <td>Impressões</td>\n            <td>1.460</td>\n            <td>2.770</td>\n        </tr>\n        <tr>\n            <td>Cliques</td>\n            <td>44</td>\n            <td>25</td>\n        </tr>\n        <tr>\n            <td>Posição Média</td>\n            <td>13,0</td>\n            <td>28,6</td>\n        </tr>\n    </table>\n\n    <h3>Tendências de Crescimento Orgânico</h3>\n    <p>O tráfego orgânico apresentou um <strong>crescimento notável</strong> em cliques, passando de <strong>25</strong> para <strong>44</strong>, e uma <strong>melhora significativa</strong> na posição média que saltou de <strong>28,6</strong> para <strong>13,0</strong>.</p>\n    <div class=\"success-box\">\n        <p>✅ As mudanças nas palavras-chave, incluindo \"manutenção elétrica\" e \"mecânico industrial\", parecem estar dando resultados positivos.</p>\n    </div>\n\n    <h3>Relação com o Tráfego Pago</h3>\n    <p>Apesar da queda no desempenho pago, o aumento no tráfego orgânico pode ajudar a compensar a perda de cliques e conversões. É importante alinhar as estratégias de SEO com as campanhas pagas para maximizar a visibilidade e o engajamento.</p>\n\n    <h2>Insights e Recomendações</h2>\n    <ul>\n        <li>**Reavaliar a estrutura de conversão**: É essencial revisar as páginas de destino e otimizar o botão do WhatsApp para melhorar a taxa de conversão.</li>\n        <li>**Aumentar o investimento em palavras-chave de alto desempenho**: Focar em palavras-chave que estão trazendo resultados orgânicos pode melhorar o tráfego pago.</li>\n        <li>**Análise de concorrência**: Investigar as estratégias de concorrentes que estão tendo sucesso pode fornecer insights valiosos.</li>\n        <li>**Ajustar o orçamento de Google Ads**: Considerar um ajuste no orçamento para aumentar a visibilidade enquanto a questão da conversão é resolvida.</li>\n        <li>**Monitoramento contínuo**: Estabelecer um sistema de monitoramento para garantir que problemas futuros de contagem de conversão sejam identificados e resolvidos rapidamente.</li>\n    </ul>\n\n    <h2>Conclusão</h2>\n    <p>O mês de outubro de 2025 apresentou desafios significativos em relação às conversões no Google Ads, mas também trouxe oportunidades de crescimento no tráfego orgânico. É crucial continuar a implementação das correções necessárias e a otimização das campanhas. Os próximos passos incluem a reavaliação das páginas de destino e o monitoramento da eficácia das novas estratégias de palavras-chave.</p>\n</div>\n```",
+        "hasPaidTraffic": true,
+        "hasOrganicTraffic": true,
+        "id": "3bbc1ceb-2ed9-4844-9aa9-1a9aea8d9a1d",
+        "generatedAt": "2025-10-24T13:32:12.929Z"
+      },
+      {
+        "month": "2025-10",
+        "htmlContent": "```html\n<div>\n    <h2>Título: Relatório de Desempenho Digital - IMS MANUTENÇÃO (Outubro de 2025)</h2>\n    <p>Este relatório apresenta uma análise detalhada do desempenho de tráfego pago (Google Ads) e tráfego orgânico (SEO) da IMS MANUTENÇÃO no mês de outubro de 2025. O foco é entender o impacto das campanhas de marketing digital e identificar oportunidades de melhoria.</p>\n\n    <h2>Análise de Tráfego Pago</h2>\n\n    <h3>Comparação entre os meses</h3>\n    <p>Em outubro de 2025, observamos uma queda no número de cliques e conversões em comparação a setembro de 2025. Os dados são os seguintes:</p>\n    <table>\n        <tr>\n            <th>Mês</th>\n            <th>Clique</th>\n            <th>Impressões</th>\n            <th>Conversões</th>\n            <th>CPC (R$)</th>\n            <th>Valor Gasto (R$)</th>\n            <th>Taxa de Conversão (%)</th>\n        </tr>\n        <tr>\n            <td>Setembro 2025</td>\n            <td>428</td>\n            <td>8.880</td>\n            <td>67</td>\n            <td>4.16</td>\n            <td>1.780,00</td>\n            <td>15.65</td>\n        </tr>\n        <tr>\n            <td>Outubro 2025</td>\n            <td>374</td>\n            <td>4.700</td>\n            <td>31</td>\n            <td>3.94</td>\n            <td>1.470,00</td>\n            <td>8.29</td>\n        </tr>\n    </table>\n\n    <h3>Tendências e Análise de Eficiência</h3>\n    <p>O <strong>CPC</strong> apresentou uma leve diminuição de R$ 4,16 para R$ 3,94, o que é positivo, mas a <strong>taxa de conversão</strong> caiu significativamente de 15,65% para 8,29%. Essa queda se deve ao problema anteriormente mencionado na marcação das conversões do botão do WhatsApp, que já foi resolvido.</p>\n\n    <h3>Desempenho das Palavras-Chave</h3>\n    <p>Analisando as principais palavras-chave, destacam-se:</p>\n    <ul>\n        <li><strong>\"manutencao pneumatica\"</strong>: 139 cliques, 1435 impressões, CPC R$ 4.19, 16 conversões, Custo R$ 581.93, CTR 9.69%</li>\n        <li><strong>\"manutenção hidraulica industrial\"</strong>: 79 cliques, 558 impressões, CPC R$ 3.17, 5 conversões, Custo R$ 250.00, CTR 14.16%</li>\n        <li><strong>\"montagem painel eletrico\"</strong>: 17 cliques, 235 impressões, CPC R$ 6.19, 2 conversões, Custo R$ 105.00, CTR 7.23%</li>\n    </ul>\n    <div class=\"warning-box\">\n        <p><strong>Observação:</strong> A palavra-chave \"manutencao pneumatica\" gerou a maior parte das conversões (16), com um CPC moderado. Recomenda-se otimizar campanhas relacionadas a esta palavra-chave e explorar variações que possam capturar mais tráfego qualificado.</p>\n    </div>\n\n    <h2>Análise de Tráfego Orgânico</h2>\n\n    <h3>Comparação entre os meses</h3>\n    <p>O desempenho do tráfego orgânico em outubro de 2025 foi superior ao de setembro de 2025, conforme abaixo:</p>\n    <table>\n        <tr>\n            <th>Mês</th>\n            <th>Impressões</th>\n            <th>Cliques</th>\n            <th>Posição Média</th>\n        </tr>\n        <tr>\n            <td>Setembro 2025</td>\n            <td>2.770</td>\n            <td>25</td>\n            <td>28.6</td>\n        </tr>\n        <tr>\n            <td>Outubro 2025</td>\n            <td>1.460</td>\n            <td>44</td>\n            <td>13.0</td>\n        </tr>\n    </table>\n\n    <h3>Tendências de Crescimento Orgânico</h3>\n    <p>O número de cliques aumentou significativamente, passando de 25 para 44, e a posição média melhorou de 28,6 para 13,0. Isso indica um progresso positivo nas estratégias de SEO implementadas.</p>\n\n    <h2>Insights e Recomendações</h2>\n    <ul>\n        <li>💡 <strong>Otimização de Palavras-Chave:</strong> Focar na palavra-chave \"manutencao pneumatica\" e testar variações como \"manutenção pneumática\" para capturar mais tráfego.</li>\n        <li>💡 <strong>Revisão de Anúncios:</strong> Atualizar anúncios que não estão performando bem, especialmente aqueles com CTR abaixo de 5%.</li>\n        <li>💡 <strong>Monitoramento de Conversões:</strong> Garantir que todas as conversões, especialmente do WhatsApp, sejam monitoradas adequadamente para otimização contínua.</li>\n        <li>💡 <strong>Consistência no SEO:</strong> Continuar a trabalhar nas melhorias de SEO, visando aumentar a posição média e as impressões.</li>\n        <li>💡 <strong>Testes A/B:</strong> Implementar testes A/B em anúncios e páginas de destino para identificar o que converte melhor.</li>\n    </ul>\n\n    <h2>Conclusão</h2>\n    <p>O mês de outubro de 2025 apresentou desafios e oportunidades. Apesar da queda nas conversões devido a problemas técnicos, a melhoria no tráfego orgânico é um sinal positivo. Os próximos passos devem incluir a otimização das campanhas de Google Ads, o monitoramento contínuo das conversões e o fortalecimento das ações de SEO.</p>\n</div>\n```",
+        "hasPaidTraffic": true,
+        "hasOrganicTraffic": true,
+        "id": "1f041f64-4d50-4976-93eb-f6820b0aae98",
+        "generatedAt": "2025-10-24T14:11:06.503Z"
+      },
+      {
+        "month": "2025-10",
+        "htmlContent": "```html\n<div>\n    <h2>Relatório de Desempenho Digital - IMS MANUTENÇÃO</h2>\n    <p>Este relatório apresenta uma análise detalhada do desempenho das campanhas de tráfego pago e orgânico da IMS MANUTENÇÃO durante o mês de outubro de 2025. A análise inclui comparações com o mês anterior, identificando tendências, pontos positivos e áreas de melhoria, além de recomendações estratégicas para otimização.</p>\n\n    <h2>Análise de Tráfego Pago</h2>\n    <h3>Desempenho Geral</h3>\n    <p>Em outubro de 2025, a IMS MANUTENÇÃO obteve <strong>374 cliques</strong> com <strong>4.700 impressões</strong>, resultando em <strong>31 conversões</strong>. O custo médio por clique (CPC) foi de R$ <strong>3,94</strong>, totalizando um gasto de R$ <strong>1.470,00</strong> e uma taxa de conversão de <strong>8,29%</strong>.</p>\n\n    <h3>Comparação com Setembro de 2025</h3>\n    <table>\n        <tr>\n            <th>Métricas</th>\n            <th>Outubro 2025</th>\n            <th>Setembro 2025</th>\n            <th>Variação</th>\n        </tr>\n        <tr>\n            <td>Cliques</td>\n            <td>374</td>\n            <td>428</td>\n            <td>-12,6%</td>\n        </tr>\n        <tr>\n            <td>Impressões</td>\n            <td>4.700</td>\n            <td>8.880</td>\n            <td>-47,0%</td>\n        </tr>\n        <tr>\n            <td>Conversões</td>\n            <td>31</td>\n            <td>67</td>\n            <td>-53,7%</td>\n        </tr>\n        <tr>\n            <td>CPC</td>\n            <td>R$ 3,94</td>\n            <td>R$ 4,16</td>\n            <td>-5,3%</td>\n        </tr>\n        <tr>\n            <td>Taxa de Conversão</td>\n            <td>8,29%</td>\n            <td>15,65%</td>\n            <td>-47,0%</td>\n        </tr>\n    </table>\n\n    <h3>Análise de Palavras-Chave</h3>\n    <p>As principais palavras-chave apresentaram desempenhos variados:</p>\n    <ul>\n        <li><strong>\"manutencao pneumatica\"</strong>: 139 cliques, 1.435 impressões, CPC R$ 4,19, 16 conversões, Custo R$ 581,93, CTR 9,69%</li>\n        <li><strong>\"manutenção hidraulica industrial\"</strong>: 79 cliques, 558 impressões, CPC R$ 3,17, 5 conversões, Custo R$ 250,00, CTR 14,16%</li>\n        <li><strong>\"montagem painel eletrico\"</strong>: 17 cliques, 235 impressões, CPC R$ 6,19, 2 conversões, Custo R$ 105,00, CTR 7,23%</li>\n        <li><strong>\"montagem quadro eletrico\"</strong>: 12 cliques, 305 impressões, CPC R$ 7,76, 1 conversão, Custo R$ 93,00, CTR 3,93%</li>\n        <li><strong>\"mecanica industrial\"</strong>: 25 cliques, 426 impressões, CPC R$ 2,81, 4 conversões, Custo R$ 70,34, CTR 5,87%</li>\n    </ul>\n    <div class=\"warning-box\">\n        <p><strong>Observação:</strong> A taxa de conversão caiu significativamente em relação ao mês anterior, o que pode ser atribuído a um problema anterior com a marcação de conversões que já foi resolvido. É importante monitorar as conversões nos próximos meses para garantir a precisão dos dados.</p>\n    </div>\n\n    <h2>Análise de Tráfego Orgânico</h2>\n    <h3>Desempenho Geral</h3>\n    <p>Em outubro de 2025, o tráfego orgânico gerou <strong>1.460 impressões</strong> e <strong>44 cliques</strong>, resultando em uma posição média de <strong>13,0</strong>.</p>\n\n    <h3>Comparação com Setembro de 2025</h3>\n    <table>\n        <tr>\n            <th>Métricas</th>\n            <th>Outubro 2025</th>\n            <th>Setembro 2025</th>\n            <th>Variação</th>\n        </tr>\n        <tr>\n            <td>Impressões</td>\n            <td>1.460</td>\n            <td>2.770</td>\n            <td>-47,3%</td>\n        </tr>\n        <tr>\n            <td>Cliques</td>\n            <td>44</td>\n            <td>25</td>\n            <td>76,0%</td>\n        </tr>\n        <tr>\n            <td>Posição Média</td>\n            <td>13,0</td>\n            <td>28,6</td>\n            <td>Improvement</td>\n        </tr>\n    </table>\n\n    <h3>Análise de Palavras-Chave</h3>\n    <p>As principais palavras-chave no tráfego orgânico tiveram um desempenho misto:</p>\n    <ul>\n        <li><strong>\"manutenção pneumatica\"</strong>: 2 cliques, 47 impressões, CTR 4,26%</li>\n        <li><strong>\"integridade estrutural\"</strong>: 1 clique, 92 impressões, CTR 1,09%</li>\n        <li><strong>\"manutenção pneumática\"</strong>: 1 clique, 31 impressões, CTR 3,23%</li>\n        <li><strong>\"montagem e manutenção industrial\"</strong>: 1 clique, 3 impressões, CTR 33,33%</li>\n    </ul>\n    <div class=\"info-box\">\n        <p><strong>Insights:</strong> A inclusão de palavras-chave de cauda longa para diversas regiões de SP poderá aumentar a relevância do tráfego orgânico, especialmente em áreas onde a concorrência é menor.</p>\n    </div>\n\n    <h2>Insights e Recomendações</h2>\n    <ul>\n        <li>💡 **Otimização de Palavras-Chave**: Focar nas palavras-chave com melhor desempenho e ajustar as campanhas para direcionar mais orçamento para termos que geram conversões.</li>\n        <li>🎯 **Aumento de Impressões**: Refinar as campanhas de Google Ads para aumentar a taxa de impressões, especialmente nas palavras-chave que estão gerando cliques, mas com baixa conversão.</li>\n        <li>✅ **Monitoramento Contínuo**: Acompanhar de perto a implementação de novas palavras-chave no SEO e verificar seu impacto nas taxas de cliques e na posição média.</li>\n        <li>⚠️ **Teste A/B**: Realizar testes A/B nas campanhas de Google Ads para determinar quais anúncios geram melhores resultados e realizar ajustes com base nas métricas coletadas.</li>\n        <li>📈 **Aprimoramento do Site**: Melhorar a experiência do usuário no site, especialmente na jornada de conversão, para aumentar a taxa de conversão geral.</li>\n    </ul>\n\n    <h2>Conclusão</h2>\n    <p>O mês de outubro apresentou desafios significativos, especialmente no tráfego pago, que viu uma queda nas conversões e cliques. Contudo, o tráfego orgânico começou a mostrar sinais de melhoria, especialmente na posição média. É fundamental implementar as recomendações propostas para otimizar as campanhas e garantir um crescimento sustentado no desempenho digital da IMS MANUTENÇÃO. A próxima etapa deve incluir uma revisão das estratégias atuais e um foco em ações que possam aumentar tanto a visibilidade quanto as conversões.</p>\n</div>\n```",
+        "hasPaidTraffic": true,
+        "hasOrganicTraffic": true,
+        "id": "a930e820-80f4-488f-b91a-85a3c91608d0",
+        "generatedAt": "2025-10-24T14:29:07.632Z"
+      }
+    ],
+    "control": {
+      "domain": "imsmanutencao.com.br",
+      "domainExpiry": "2026-02-20",
+      "hostingExpiry": "2026-02-20",
+      "annualFee": 200,
+      "notes": "Valor anual de R$ 200,00\nSendo R$ 180,00 hospedagem + R$ 40,00 domínio"
+    }
+  },
+  {
+    "name": "Axxia",
+    "email": "demetrio@cokinos.com.br",
+    "company": "Axxia",
+    "id": "3d3a20cc-1b43-44c4-8859-d1b33b756259",
+    "createdAt": "2025-10-27T15:48:55.500Z",
+    "monthlyData": [],
+    "organicData": [],
+    "control": {
+      "domain": "axxia-assets.com.br",
+      "domainExpiry": "2025-10-19",
+      "hostingExpiry": "2025-10-19",
+      "annualFee": 220
+    },
+    "savedReports": []
+  },
+  {
+    "name": "CKS AUDITORES",
+    "email": "demetrio@cokinos.com.br",
+    "company": "CKS AUDITORES",
+    "id": "a3f45138-897a-4fe4-b781-5c41343cef94",
+    "createdAt": "2025-10-27T15:51:52.752Z",
+    "monthlyData": [],
+    "organicData": [],
+    "control": {
+      "domain": "CKSAUDITORES.COM.BR",
+      "hostingExpiry": "2025-10-31",
+      "annualFee": 180
+    },
+    "savedReports": []
+  },
+  {
+    "name": "AFH ENGENHARIA",
+    "email": "vendas.afh@gmail.com",
+    "company": "afh engenharia",
+    "id": "794f433a-2040-4445-99ed-88d61c565fbb",
+    "createdAt": "2025-10-27T16:04:06.442Z",
+    "monthlyData": [],
+    "organicData": [],
+    "control": {
+      "domainExpiry": "2026-01-20",
+      "hostingExpiry": "2026-01-20",
+      "annualFee": 220
+    },
+    "savedReports": []
+  },
+  {
+    "name": "ALTUSTEC",
+    "email": "johnpatrocinio1@gmail.com",
+    "company": "ALTUSTEC",
+    "id": "99a6a99b-5971-44e4-ac28-10a43cfb4491",
+    "createdAt": "2025-10-27T16:05:36.959Z",
+    "monthlyData": [],
+    "organicData": [],
+    "control": {
+      "domain": "ALTUSCI.COM.BR",
+      "domainExpiry": "2025-10-17",
+      "annualFee": 40
+    },
+    "savedReports": []
+  },
+  {
+    "name": "assomedicinaocupacional.com.br",
+    "email": "asso-ass@uol.com.br",
+    "company": "ASSO",
+    "id": "7c83c86e-6b4c-4327-bfb2-23edaf3ffb87",
+    "createdAt": "2025-10-27T16:07:12.592Z",
+    "monthlyData": [],
+    "organicData": [],
+    "control": {
+      "hostingExpiry": "2026-05-07",
+      "annualFee": 180
+    },
+    "savedReports": []
+  },
+  {
+    "name": "FELIX CAMBOTAS",
+    "email": "contato@altusci.com.br",
+    "company": "FELIX CAMBOTAS",
+    "id": "8a9600f7-3359-49c2-8de1-2fa9ed6a1668",
+    "createdAt": "2025-10-27T16:09:44.949Z",
+    "monthlyData": [],
+    "organicData": [],
+    "control": {
+      "domain": "FELIXCAMBOTAS.COM.BR",
+      "domainExpiry": "2025-09-03",
+      "hostingExpiry": "2025-09-03",
+      "annualFee": 220
+    },
+    "savedReports": []
+  },
+  {
+    "name": "flxhidraulicainc.com.br",
+    "email": "CONTATO@ALTUSCI.COM.BR",
+    "id": "07d72bb0-623f-4a62-8069-5ebac2ad96db",
+    "createdAt": "2025-10-27T16:11:47.424Z",
+    "monthlyData": [],
+    "organicData": [],
+    "control": {
+      "domain": "flxhidraulicainc.com.br",
+      "hostingExpiry": "2025-09-15",
+      "annualFee": 180
+    },
+    "savedReports": []
+  },
+  {
+    "name": "grupoflxinc.com.br",
+    "email": "gerencia@flxhidraulica.com.br",
+    "id": "0957af95-3e4a-47a3-8742-ab8b9a29f4f5",
+    "createdAt": "2025-10-27T16:13:28.773Z",
+    "monthlyData": [],
+    "organicData": [],
+    "control": {
+      "domain": "grupoflxinc.com.br",
+      "hostingExpiry": "2026-02-01",
+      "annualFee": 180
+    },
+    "savedReports": []
+  },
+  {
+    "name": "INJETMAIS",
+    "email": "JOHNPATROCINIO1@gmail.com",
+    "id": "e4a1edc7-df12-44de-9f7b-5101166dc80f",
+    "createdAt": "2025-10-27T16:14:56.306Z",
+    "monthlyData": [],
+    "organicData": [],
+    "control": {
+      "domain": "INJETMAIS.COM.BR",
+      "domainExpiry": "2026-02-28",
+      "hostingExpiry": "2026-02-28",
+      "annualFee": 220
+    },
+    "savedReports": []
+  },
+  {
+    "name": "PRIMEFIRE",
+    "email": "gerencia@flxhidraulica.com.br",
+    "id": "7291c26e-7993-4245-9f51-b202b84fb2b6",
+    "createdAt": "2025-10-27T16:17:05.773Z",
+    "monthlyData": [],
+    "organicData": [],
+    "control": {
+      "domain": "PRIMEFIRE.IND.BR",
+      "hostingExpiry": "2025-09-29",
+      "annualFee": 180
+    },
+    "savedReports": []
+  },
+  {
+    "name": "OTICA DINIZ",
+    "email": "milsoncunha@oticasdiniz.com.br",
+    "id": "853d1167-a871-4f46-9b4d-7953b6430c26",
+    "createdAt": "2025-10-27T16:19:43.357Z",
+    "monthlyData": [],
+    "organicData": [],
+    "control": {
+      "domain": "oticasdinizguarulhos.com.br",
+      "hostingExpiry": "2026-05-20",
+      "annualFee": 180
+    },
+    "savedReports": []
+  }
+]
